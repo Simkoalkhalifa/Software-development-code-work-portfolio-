@@ -10,7 +10,7 @@ public class Dice {
         int y= random.nextInt(10) + 1;
         System.out.println(y);
 
-        System.out.println("two dice for the price of one");
+        System.out.println("dice one is for Attack points, dice 2 is for Position move");
 
 
     }
